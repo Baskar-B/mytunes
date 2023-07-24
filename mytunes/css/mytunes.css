@@ -1,0 +1,258 @@
+
+body{
+    margin: 0px;
+}
+#nav_bar{
+    width: 1262px;
+    border: 1px solid black;
+    background-color: #333333;
+    height: 50px;
+    display: flex;
+    /* justify-content: flex-start; */
+    gap: 50px;
+    position: sticky;
+    top: 0%;
+}
+
+a{
+    border: 1px solid #333333; 
+    text-decoration: none;
+    height: 45px;
+    width: 80px;
+    text-align: center;
+    line-height: 50px;
+    font-size: large;
+    color: white;
+    
+   
+}
+#a1:hover{
+    background-color: #333333;
+    transform: scale(1.1);
+}
+#a2:hover{
+    background-color: #333333;
+    transform: scale(1.1);
+    
+}
+#a3:hover{
+    background-color: #333333;
+    transform: scale(1.1);
+}
+#a4:hover{
+    background-color: #333333;
+    transform: scale(1.1);
+}
+#a5:hover{
+    background-color: #333333;
+    transform: scale(1.1);
+}
+#main_div{
+    border: 1px solid black;
+    height: 650px;
+    width: 100wh;
+    background-image: url(../img/mytunes1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+}
+#my1{
+    margin-top: 300px;
+    margin-left: 500px;
+    font-size: 70px;
+}
+#my2{
+    margin-top: 35px;
+    margin-left: 330px;
+    font-size: 30px;
+    
+}
+#music{
+    border: 1px solid black;
+    height: 1150px;
+    width: 100wh;
+    background-color: #252529;
+    
+}
+#my3{
+    color: white;
+    /* position: relative; */
+    bottom: 5px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#my4{
+    text-align: center;
+    /* position: relative; */
+    bottom: 30px;
+    color: white;
+    font-size: 35px;
+}
+#my5{
+    text-align: center;
+    /* position: relative; */
+    display: inline-block;
+    width: 1000px;
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+}
+#bt1{
+    /* position: absolute; */
+
+    margin-left: 500px;
+    height: 60px;
+    width: 200px;
+    color: white;
+    background-color: #B90415;
+    font-size: 15px;
+}
+#my6{
+    color: white;
+    margin-left: 350px;
+    font-weight: lighter;
+}
+#music1{
+    /* border: 1px solid black; */
+    height: 1100px;
+    width: 100wh;
+}
+#my7{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+}
+#para1{
+     /* border: 1px solid black;  */
+    display: inline-block;
+    /* position: relative; */
+    width: 1200px;
+   margin-left: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+ #para2{
+    text-align: center;
+    /* position: relative; */
+    bottom: 40px;
+    font-size: 20px; 
+    font-family: sans-serif;
+} 
+#bt2{
+    background-color: #103063;
+    height: 60px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+    /* position: relative; */
+    margin-left: 600px;
+    bottom: 900px;
+}
+#img1{
+    margin-left: 100px;
+}
+
+#music2{
+     background-image: url("../img/mytunes4.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border: 1px solid black;
+    height: 550px;
+    /* position: relative;  */
+    margin-top: 150px;
+    
+}
+#my8{
+    color: white;
+    font-size: 30px;
+    /* position: relative; */
+    margin-top: 200px;
+    text-align: center;
+}
+#para3{
+    color: white;
+    font-size: 21px;
+    font-weight: lighter;
+    margin-top: 50px;
+    text-align: center;
+}
+#main_card{
+    border: 1px solid black;
+    height: 650px;
+    display: flex;
+}
+#card1{
+    margin-top: 100px;
+    display: inline-block;
+}
+#photo_card{
+     /* position: absolute;  */
+}
+ #card2{
+   /* border: 1px solid black; */
+   
+   width: 500px;
+   margin-left: 100px;
+   margin-top: 80px;
+   
+    
+} 
+#my9{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+section>#para4{
+    font-family: sans-serif;
+}
+#copyrights{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    height: 300px;
+    color: white;
+    background-color: #252529;
+    line-height: 30px;
+}
+.topic{
+    font-size: 25px;
+    font-weight: lighter;
+    color: white;
+}
+#shop{
+    color: #CCCCCC;
+}
+#store{
+    color: #CCCCCC;  
+}
+#business{
+    color: #CCCCCC;
+}
+#about{
+    color: #CCCCCC;
+}
+#copy{
+     border: 1px solid #333333; 
+    background-color: #333333;
+    color: white;
+    height: 80px;
+    width: 100wh;
+    text-align: center;
+    line-height: 40px; 
+} 
+#redeem{
+    color: blue;
+}
+
+
+
+
+
+
+
+
+ 
+
